@@ -10,6 +10,8 @@ import static org.apache.http.HttpStatus.SC_OK;
 
 public class PostRequest {
 
+    private PostRequest() { }
+
     public static JsonPath createBooking(JSONObject payload) {
 
         return given()
