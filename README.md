@@ -1,3 +1,2 @@
 # AkademiaQA.pl 
-Kod do webinaru Testowanie REST API
-Testowana strona -> https://restful-booker.herokuapp.com/
+Kod do webinaru Testowanie REST API, testowana strona -> https://restful-booker.herokuapp.com/
